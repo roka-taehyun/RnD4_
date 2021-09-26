@@ -3,3 +3,5 @@ Test Txt for other.
 Double Modified
 
 Amend file
+
+main checkout
